@@ -141,7 +141,7 @@ export default function Emprendimientos({ onFrameToggle }) {
         <div className="regen-content">
           <div className="regen-content-inner">
             <div className="regen-header-label">
-              <img src="/assets/shapes/double-d.svg" alt="" width="18" height="18" />
+              <img src="/assets/icons/nav-emprendimiento.svg" alt="" width="18" height="18" />
               Natura 500
             </div>
             <h1 className="regen-heading">
@@ -157,7 +157,7 @@ export default function Emprendimientos({ onFrameToggle }) {
             </a>
           </div>
 
-          <div className="regen-bottom-right">
+          <div className="regen-bottom-center">
             <div className="hero-scroll-indicator">
               <span>DESLIZAR</span>
               <svg width="15" height="24" viewBox="0 0 16 24" fill="none" stroke="#C8E632" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M8 4L8 20M8 20L2 14M8 20L14 14"/></svg>

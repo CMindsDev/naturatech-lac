@@ -76,7 +76,7 @@ export default function Ecos() {
         <div className="ecos-content">
           <div className="ecos-content-inner">
             <span className="ecos-header-label">
-              <img src="/assets/programs-logos/ecos.svg" alt="" />
+              <img src="/assets/icons/nav-ecos.svg" alt="" />
               Ecos
             </span>
             <h1 id="ecos-title" className="ecos-heading">
